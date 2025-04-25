@@ -1,5 +1,5 @@
 # pinecone
-pinecone : #embedding #vector #pinecone
+pinecone : #embeddings #vector #pinecone
 
 
 ## In Progress...
