@@ -1,4 +1,4 @@
-# pinecone
+# pinecone 🍍
 pinecone : #embeddings #vector #pinecone
 
 
